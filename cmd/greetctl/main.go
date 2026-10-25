@@ -4,8 +4,8 @@ import (
 	"flag"
 	"fmt"
 
-	"github.com/DiogenesFerminS/dev-talles-go/internal/logx"
-	gr "github.com/DiogenesFerminS/dev-talles-go/pkg/greet"
+	"github.com/DiogenesFerminS/greetctl/internal/logx"
+	gr "github.com/DiogenesFerminS/greetctl/pkg/greet"
 	"github.com/fatih/color"
 )
 
